@@ -10,7 +10,7 @@ Data Engineer / SQL Specialist roles.
 
 ## Structure
 - `othm-l4/` — Coursework and mock assignments for each of the 6 OTHM Level 4 units
-  | Unit Ref. No. | Unit title |
+  | Unit Ref. No. | Unit Title |
   |---|---|
   | A/617/2265 | Programming Foundations |
   | F/617/2266 | Systems Analysis and Design |
