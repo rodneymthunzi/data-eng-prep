@@ -9,8 +9,7 @@ fundamentals). This repo tracks hands-on practice as I build toward
 Data Engineer / SQL Specialist roles.
 
 ## Structure
-- `othm-l4/` — Coursework and mock assignments for each of the 6 OTHM 
-Level 4 units
+- `othm-l4/` — Coursework and mock assignments for each of the 6 OTHM Level 4 units
   | Unit Ref. No. | Unit title |
   |---|---|
   | A/617/2265 | Programming Foundations |
