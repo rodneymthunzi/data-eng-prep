@@ -10,8 +10,8 @@ Data Engineer / SQL Specialist roles.
 
 ## Structure
 - `othm-l4/` — Coursework and mock assignments for each of the 6 OTHM 
-  Level 4 units
-- 
+Level 4 units
+- Unit Ref. No.   Unit title
 - `dp-900/` — Azure Data Fundamentals exam prep notes
 - `databricks/` — Databricks notebooks and practice exercises
 
