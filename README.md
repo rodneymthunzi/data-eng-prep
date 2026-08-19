@@ -9,8 +9,9 @@ fundamentals). This repo tracks hands-on practice as I build toward
 Data Engineer / SQL Specialist roles.
 
 ## Structure
-- `othm-l4/` — coursework and mock assignments for each of the 6 OTHM 
+- `othm-l4/` — Coursework and mock assignments for each of the 6 OTHM 
   Level 4 units
+- 
 - `dp-900/` — Azure Data Fundamentals exam prep notes
 - `databricks/` — Databricks notebooks and practice exercises
 
